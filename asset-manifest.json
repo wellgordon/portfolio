@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cf64f549.css",
+    "main.js": "/portfolio/static/js/main.e785ef55.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wood-concrete-corner-background-wallpaper-texture-concept.jpg": "/portfolio/static/media/wood-concrete-corner-background-wallpaper-texture-concept.d49e5dc009e106ef6893.jpg",
+    "static/media/profile2.jpg": "/portfolio/static/media/profile2.2b3446ff56c3e1173d00.jpg",
+    "static/media/gray-abstract-wireframe-technology-background.jpg": "/portfolio/static/media/gray-abstract-wireframe-technology-background.833b1243acc6edb3d8e1.jpg",
+    "static/media/GDW.png": "/portfolio/static/media/GDW.120b63d463c62bea746d.png",
+    "static/media/github.png": "/portfolio/static/media/github.e8efa7f43ecd05b0a5e4.png",
+    "index.html": "/portfolio/index.html",
+    "main.cf64f549.css.map": "/portfolio/static/css/main.cf64f549.css.map",
+    "main.e785ef55.js.map": "/portfolio/static/js/main.e785ef55.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf64f549.css",
+    "static/js/main.e785ef55.js"
+  ]
+}
